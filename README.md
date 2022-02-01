@@ -40,7 +40,7 @@ Upon sleeping, the player will be granted regeneration for 20 seconds.
 
 ### Cave Tweaks
 
-Thanks to the creator of Cave Tweaks: Starmute, we have a config perfectly geared to make finding caves more difficult, and to form steep caverns which can be fallen into at death height. If you can make it below the stone layer though, some caves are dramatically larger and more beautiful in deepslate.
+Thanks to the creator of Cave Tweaks, Starmute, we have a config perfectly geared to make finding caves more difficult, and to form steep caverns which can be fallen into at death height. If you can make it below the stone layer though, some caves are dramatically larger and more beautiful in deepslate.
 
 ### Creeper Overhaul
 
