@@ -8,7 +8,7 @@ The purpose of this modpack is to push Minecraft's difficulty to its absolute li
 
 #### How do I survive my first night?
 
-You're going to be best off killing as many mobs as possible for xp while gathering food on your first night, if there's any intent to survive beyond that. Immediately after, finding an easily accessible source of clean water is crucial.
+Kill as many mobs as possible for xp while gathering food on your first night, if there's any intent to survive beyond that. Immediately after, finding an easily accessible source of clean water is crucial.
 
 #### How do I mine stone?
 
