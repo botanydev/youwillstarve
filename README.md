@@ -8,7 +8,7 @@ The purpose of this modpack is to push Minecraft's difficulty to its absolute li
 
 #### How do I survive my first night?
 
-You're going to be best off killing as many mobs as possible for xp while gathering food on your first night, if there's any intent to survive beyond that. Immediately after, finding an easily accessible source of water is crucial.
+You're going to be best off killing as many mobs as possible for xp while gathering food on your first night, if there's any intent to survive beyond that. Immediately after, finding an easily accessible source of clean water is crucial.
 
 #### How do I mine stone?
 
@@ -20,11 +20,11 @@ More blocks become mineable with each "Mining" level increase. The menu for this
 
 The default hotkey to open the skills menu is "k".
 
-One of the most integral aspects of the pack and how it operates - leveling up is a requirement to do anything and everything now. From mining stone, to dealing more damage or increasing movement speed, LevelZ forces the player to first gain and utilize their experience points.
+An integral aspect of the pack and how it operates - leveling up is a requirement to do anything and everything now. From mining stone, to dealing more damage or increasing movement speed, LevelZ forces the player to first gain and utilize their experience points.
 
 ### Dehydration
 
-Dehydration is one of the most challenging aspects of You Will Starve. In fact, more often that not, you'll die from thirst before hunger. Maintaining your thirst bar becomes relatively trivial though after crafting a flask.
+Dehydration is one of the most challenging additions to You Will Starve. In fact, more often that not, you'll die from thirst before hunger. Maintaining your thirst bar becomes relatively trivial though after crafting a flask.
 
 Wiki: https://globoxwiki.com/mods/dehydration/
 
